@@ -1,0 +1,1 @@
+x=(input(, inplace=False, backup='', bufsize=0, mode='r', openhook=None)())
